@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'Asay Creative | Video Production & Editing | Omaha, NE'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Your story, professionally told.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
