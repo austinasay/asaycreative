@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/1981-digital-0fMHmtQClYg-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
